@@ -1,9 +1,10 @@
 Seja bem vindo :post_office:
 
-
-Sou Robson Silva, sou progamador Front End, aprendendo e criar projetos,
 <br>
 <br>
+Robson da Silva é um programador Front-End em formação, aluno da DevClub, onde vem desenvolvendo suas habilidades através dos ensinamentos do professor Rodolfo Mori. Com foco nas tecnologias HTML, CSS e JavaScript, ele tem criado diversos projetos práticos que contribuem para o fortalecimento do seu conhecimento na construção de interfaces modernas, responsivas e funcionais. 
+Dedicado e em constante evolução, Eu Robson busca se destacar no mercado de desenvolvimento web, aprimorando suas técnicas e ampliando seu portfólio a cada novo projeto.
+Estou aprocura de novas oportunidades no mercado de trabalho em transição de carreira.
 <br>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
